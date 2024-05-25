@@ -10,6 +10,7 @@ Images:
 - [Mainboard](images/mainboard-01.jpg)
 - [Mainboard closeup](images/mainboard-02.jpg)
 - [Mainboard ports](images/mainboard-ports.jpg)
+- [Mainboard pinout](images/mainboard-pins.jpg)
 - [Power supply](images/power-supply.jpg)
 - [Power switch](images/power-switch.jpg)
 
