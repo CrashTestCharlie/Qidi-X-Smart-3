@@ -34,10 +34,6 @@ changed from a slider to a status indicator.
 
 ## The Fix
 
-This mod has two parts. It’s best to do the software first, so that when
-the printer is powered up after the hardware change, it’ll have control
-over the mainboard fan.
-
 This mod has two parts. It’s best to do the hardware mod first, so that
 the printer can be reassembled before making the software changes.
 
