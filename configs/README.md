@@ -31,6 +31,6 @@ Changes include:
 
 - Mainboard fan mod
 - Fan renaming
-- Set fans to 50% on MCU error
+- Set fans to 100% on MCU error
 - Activate temperature sensor on the Pi
 - Macro updates
