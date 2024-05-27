@@ -31,6 +31,8 @@ Mods found in this repository:
 
 - [Fan mod](./fan-mod/README.md): control the mainboard fan with
   Klipper, instead of always on.
+- [Config mod](./configs/READMES.md): fixing Qidi’s copy/paste errors
+  and adding functionality.
 
 ## Software/Firmware
 
