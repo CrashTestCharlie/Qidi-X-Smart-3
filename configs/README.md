@@ -1,7 +1,7 @@
 # Sensible Configuration
 
 The file `./printer.cfg.orig` is the `printer.cfg` that originally
-shipped with the X-Smart 3. It's add here for reference purposes.
+shipped with the X-Smart 3. It's added here for reference purposes.
 
 ## Configuration
 
@@ -34,3 +34,9 @@ Changes include:
 - Set fans to 100% on MCU error
 - Activate temperature sensor on the Pi
 - Macro updates
+
+## Notes
+
+Because the fans names are hardwired into the display screen firmware,
+using these configs will make the `fan1` and `fan3` screen buttons
+inoperative.
