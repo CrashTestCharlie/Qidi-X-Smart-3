@@ -14,6 +14,7 @@ The file tree looks like this:
 .
 ├── printer.cfg
 ├── printer.cfg.orig
+├── README.md
 └── x-smart-3
     ├── 00-hardware.cfg
     ├── 01-steppers.cfg
@@ -30,3 +31,6 @@ Changes include:
 
 - Mainboard fan mod
 - Fan renaming
+- Set fans to 50% on MCU error
+- Activate temperature sensor on the Pi
+- Macro updates
