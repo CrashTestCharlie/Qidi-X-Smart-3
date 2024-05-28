@@ -17,10 +17,14 @@ The file tree looks like this:
     └── x-smart-3
         ├── 00-hardware.cfg
         ├── 01-steppers.cfg
+        ├── control.cfg
         ├── fans.cfg
         ├── macros.cfg
         ├── pins.cfg
         └── temps.cfg
+
+The `PRINT_START` type macros are found in `control.cfg` which contains
+the macros that will most likely need personalization.
 
 ## Changes
 
