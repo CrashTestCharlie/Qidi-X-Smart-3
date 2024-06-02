@@ -34,6 +34,7 @@ Mods found in this repository:
 - [Config mod](./configs/README.md): fixing Qidi’s copy/paste errors
   and adding functionality.
 - [Heater mod](./heater-mod/README.md): active chamber heater mod
+- [Camera mod](./camera-mount/README.md): add a webcam
 
 ## Software/Firmware
 
