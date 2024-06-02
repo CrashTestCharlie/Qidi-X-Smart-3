@@ -25,7 +25,7 @@ upright of the X-Smart 3 using existing mounting holes.
 ### Parts required
 
 - Webcam module, [Innomaker 1080P USB2.0 UVC
-  Camera](https://a.co/d/d5Mff7J)
+  Camera](https://a.co/d/d5Mff7J), cable included
 - The printed mount, [STL here](camera-mount.stl)
 - 2x 2.5 x 4 mm heatset inserts
 - 2x 3 x 6 mm heatset inserts
