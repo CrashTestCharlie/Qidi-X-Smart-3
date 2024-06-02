@@ -3,7 +3,7 @@
 While Qidi sells a camera, using a better camera makes for a better
 result.
 
-![](images/installed-mounted.jpg)
+![](images/camera-mounted.jpg)
 ![](images/fluidd-camera.jpg)
 
 ## The Mount
