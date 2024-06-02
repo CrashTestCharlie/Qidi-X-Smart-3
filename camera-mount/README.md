@@ -4,6 +4,7 @@ While Qidi sells a camera, using a better camera makes for a better
 result.
 
 ![](images/camera-mounted.jpg)
+
 ![](images/fluidd-camera.jpg)
 
 ## The Mount
@@ -19,11 +20,12 @@ upright of the X-Smart 3 using existing mounting holes.
 - 3mm hex wrench
 - 2.5mm hex wrench
 - Other screwdrivers as needed. (The only 2.5mm screws I could source
-locally were slotted drive.)
+  locally were slotted drive.)
 
 ### Parts required
 
-- Webcam module, [ASIN xxx](https://a.co/xxxx)
+- Webcam module, [Innomaker 1080P USB2.0 UVC
+  Camera](https://a.co/d/d5Mff7J)
 - The printed mount, [STL here](camera-mount.stl)
 - 2x 2.5 x 4 mm heatset inserts
 - 2x 3 x 6 mm heatset inserts
