@@ -19,6 +19,7 @@ Images:
 - [Mainboard pinout](images/mainboard-pins.png)
 - [Power supply](images/power-supply.jpg)
 - [Power switch](images/power-switch.jpg)
+- [Toolhead pinout](images/A-4.V1.2_003.PIN.pdf) (PDF)
 
 #### Notes
 
