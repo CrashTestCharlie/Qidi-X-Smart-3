@@ -30,13 +30,14 @@ top USB 2.0 port.
 
 Mods found in this repository:
 
+- [Camera mod](./camera-mount/README.md): add a webcam
+- [Config mod](./configs/README.md): fixing Qidi’s copy/paste errors and
+  adding functionality.
 - [Fan mod](./fan-mod/README.md): control the mainboard fan with
   Klipper, instead of always on.
-- [Config mod](./configs/README.md): fixing Qidi’s copy/paste errors
-  and adding functionality.
 - [Heater mod](./heater-mod/README.md): active chamber heater mod
-- [Thermistor mount](./thermistor-mount/README.md): a mount for the thermistor used in the header mod.
-- [Camera mod](./camera-mount/README.md): add a webcam
+- [Thermistor mount](./thermistor-mount/README.md): a mount for the
+  thermistor used in the header mod.
 
 ## Software/Firmware
 
