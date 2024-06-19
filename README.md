@@ -33,6 +33,8 @@ Mods found in this repository:
 - [Camera mod](./camera-mount/README.md): add a webcam
 - [Config mod](./configs/README.md): fixing Qidi’s copy/paste errors and
   adding functionality.
+- [Exhaust filter mod](./exhaust-filter/README.md): Add charcoal
+  filtering to the exhaust fan.
 - [Fan mod](./fan-mod/README.md): control the mainboard fan with
   Klipper, instead of always on.
 - [Heater mod](./heater-mod/README.md): active chamber heater mod
